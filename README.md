@@ -12,7 +12,7 @@ Noughts and Crosses made in Python following the required template code.
 
 
 # Concepts
-* Iterature searching
+* Literature searching
 * Mathematics & logic
 * Algorithm development
 * Solution designing
